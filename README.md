@@ -63,7 +63,8 @@ A responsive and feature-rich mobile real estate browsing app built using **Reac
 * Node.js (LTS recommended)
 * React Native CLI OR Expo CLI
 * Android Studio / Xcode for emulator
-
+  
+---
 ### Clone and Install
 
 ```bash
@@ -134,6 +135,7 @@ export default function App() {
   );
 }
 
+---
 
 ## 💻 Usage
 
@@ -143,7 +145,7 @@ export default function App() {
 * Press the **heart icon** to mark/unmark favorites
 * Use custom back icon to return to the previous screen
 
-
+---
 
 ## 🗂 Sample Data
 
@@ -164,7 +166,7 @@ Located in `SearchScreen.js` under `allProperties[]` array:
   featured: true
 }
 
-
+---
 ## 🖼 Assets
 
 Images are fetched from [Pexels](https://www.pexels.com) using remote URLs. You can replace with your own backend or local images.
