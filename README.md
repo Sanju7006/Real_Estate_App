@@ -15,7 +15,7 @@ A responsive and feature-rich mobile real estate browsing app built using **Reac
 * [Usage](#-usage)
 * [Sample Data](#-sample-data)
 * [Assets](#-assets)
-* [License](#-license)
+
 
 ---
 
